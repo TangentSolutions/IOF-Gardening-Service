@@ -8,8 +8,8 @@
 
   The web service is located on root
 
-    /
+    http://iot-gardening.tngnt.co/
 
 ## API Explorer
 
-    /api-explorer
+    http://iot-gardening.tngnt.co/api-explorer
